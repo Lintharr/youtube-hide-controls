@@ -1,6 +1,8 @@
 MIT License
 
 Copyright (c) 2018 nralbrecht
+Copyright (c) 2020 Lintharr
+Copyright for portions of project youtube-relish are held by [nralbrecht, 2018] as part of project youtube-hide-controls. All other copyright for project youtube-relish are held by [Lintharr, 2020].
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

@@ -1,10 +1,10 @@
 {
 	"extensionName": {
-		"message": "Hide YouTube Fullscreen Controls",
+		"message": "YouTube Relish",
 		"description": "Name of the extension"
 	},
 	"extensionDescription": {
-		"message": "Hide the YouTube fullscreen controls when you move the cursor to the display border.",
+		"message": "Hide the YouTube fullscreen controls when you are not hovering over them.",
 		"description": "Description of the extension"
 	},
 	"triggerDistanceOptionTitle": {

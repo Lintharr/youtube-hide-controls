@@ -1,14 +1,16 @@
 # Hide YouTube video controls
 
-Get the add-on from the [Mozilla add-on page](https://addons.mozilla.org/de/firefox/addon/hide-youtube-controls/).
+Fork of Hide YouTube video controls, changing mainly how fullscreen works and adding some other QoL features.
+Written as a Chrome extension.
 
-Does YouTube leave the video controls visible for longer than you like? Do you want to have a hotkey that toggles the controls?
-This add-on gives you the tools to change that.
+Get the original Firefox add-on from the [Mozilla add-on page](https://addons.mozilla.org/de/firefox/addon/hide-youtube-controls/).
 
-You can:
-- Hide the video controls when you move the cursor to any border
-- Toggle the controls when you press the configurable hotkey
+Does YouTube leave the video controls visible for longer than you'd like? Do you get annoyed by how clunky YouTube fullscreen is?
+This add-on changes YouTube fullscreen to behave more like Media Player Classic's.
 
-In the add-on settings you can configure the individual sides as well as the hotkey.
+Features:
+- display video controls or title only when you are hovering over them
+- allows you to control volume from anywhere on the video screen with your mouse scroll
+- block the annoying page scrolling while at fullscreen
 
-If you experience any issues, please let me know [here](https://github.com/nralbrecht/youtube-hide-controls/issues).
+This is a private Chrome extension, but you can occasionally find me and the source code [here](https://github.com/Lintharr/youtube-relish).

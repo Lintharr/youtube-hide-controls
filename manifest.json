@@ -2,18 +2,11 @@
 
   "manifest_version": 2,
   "name": "__MSG_extensionName__",
-  "version": "2.4.1",
+  "version": "1.0",
 
   "description": "__MSG_extensionDescription__",
-  "homepage_url": "https://github.com/nralbrecht/youtube-hide-controls",
+  "homepage_url": "https://github.com/Lintharr/youtube-relish",
   "default_locale": "en",
-
-  "applications": {
-    "gecko": {
-      "id": "@hideyoutubecontrolls",
-      "strict_min_version": "48.0"
-    }
-  },
 
   "icons": {
     "48": "icon.svg",
@@ -24,13 +17,11 @@
     {
       "matches": [ "*://*.youtube.com/*" ],
       "js": [ "content-script.js" ],
+	  "css": [ "toast.css" ],
       "run_at": "document_idle"
     }
   ],
-
-  "options_ui": {
-    "page": "options/options.html"
-  },
+  "web_accessible_resources": ["ffs.js", "toast.css"],
 
   "permissions": [
     "storage"
